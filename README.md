@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=venturabeatrizc&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+httpsgithub-readme-stats.vercel.appapiusername=venturabeatrizc&show_icons=true&theme=dark
 
 ### Projetos
 
