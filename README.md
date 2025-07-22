@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Oi! 👋
 
 
-###### Sobre a Bia
+### Sobre a Bia
 
 3 anos de experiência no desenvolvimento de projetos com foco em PHP e Javascript para desenvolvimento web e automações.
 
