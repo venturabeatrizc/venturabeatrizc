@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Sobre a Bia
 
-3 anos de experiência no desenvolvimento de projetos com foco em PHP e Javascript para desenvolvimento web e automações.
+Tenho 3 anos de experiência com desenvolvimento web, trabalhando principalmente com PHP e JavaScript. Gosto de criar sites, sistemas e automações que facilitam o dia a dia das pessoas. Estou sempre buscando aprender e melhorar minhas habilidades.
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venturabeatrizc&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
