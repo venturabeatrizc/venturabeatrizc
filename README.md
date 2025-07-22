@@ -20,14 +20,4 @@ Here are some ideas to get you started:
 
 3 anos de experiência no desenvolvimento de projetos com foco em PHP e Javascript para desenvolvimento web e automações.
 
-### Detalhes
-
-httpsgithub-readme-stats.vercel.appapiusername=venturabeatrizc&show_icons=true&theme=dark
-
-### Projetos
-
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=venturabeatriz&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
-
-### Linguagens utilizadas
-
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=venturabeatriz&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venturabeatrizc&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
