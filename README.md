@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venturabeatrizc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=venturabeatrizc&repo=**NOME-DO-REPOSITORIO**&theme=dark)](https://github.com/venturabeatrizc/**NOME-DO-REPOSITORIO**)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=venturabeatrizc&repo=myjs*&theme=dark)](https://github.com/venturabeatrizc/**NOME-DO-REPOSITORIO**)
 
 ### Em breve
 📩 Registro de nomes
